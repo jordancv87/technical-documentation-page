@@ -1,0 +1,71 @@
+:root {
+    font-size: 18px;
+    min-width: 290px;
+    color: #4d4e53;
+    background-color: rgb(252, 239, 228);
+    list-style-type: none;
+    text-decoration: none;
+}
+.hierophant {
+    display: block;
+    margin-left: 48%;
+    width: 50%;
+}
+.magician{
+    width: 250px; 
+    border-radius: 10px;
+}
+img {
+    margin-top: 5%;
+    border-radius: 10px
+}
+#navbar {
+    width: 230px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    background-color: #182d2e;
+}
+#navbar li {
+    margin: 20%;
+}
+.nav-link {
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: #4d4e53;
+} 
+.content {
+    font-size: 2.2em;
+    font-weight: 500;
+    margin-top: 15%;
+    padding-left: 21%;
+}
+.tarot {
+    color: #4d4e53;
+    text-align: center;
+    margin: 30px 0px 7.2px;
+    font-size: 2.7rem;
+    margin-left:200px;
+}
+#main-doc{
+    position: absolute;
+    margin-left:200px;
+    padding:20px;
+    margin-bottom:110px;
+}  
+.main-section {
+    text-align: center;
+    margin: 5%;
+}
+.headers {
+    font-size: 2.2em;
+    font-weight: 500;
+}
+p {
+    
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
+
